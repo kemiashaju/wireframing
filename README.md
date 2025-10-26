@@ -73,3 +73,31 @@ This is a **[insert: low-fidelity or high-fidelity] wireframe** because it **[ex
 
 ## Conclusion
 Wireframing bridges the gap between ideas and the final design. It transforms concepts into structured, functional layouts that guide the entire design and development process.
+
+## Popular Wireframing Tools
+
+There are several tools available that make the wireframing process faster and more collaborative. Some of the most popular include:
+
+- **Figma**  
+- **Balsamiq**  
+- **Adobe XD**  
+- **Sketch**  
+- **Wireframe.cc**
+
+### 🔹 Figma (Recommended Tool)
+**Figma** is a cloud-based design and prototyping tool widely used by designers for creating wireframes, UI designs, and prototypes. It allows multiple users to collaborate in real-time, making it perfect for team-based projects.
+
+**Key Features:**
+- Browser-based with easy access and no installation required  
+- Real-time collaboration and commenting  
+- Extensive library of UI components and templates  
+- Interactive prototyping for testing user flows  
+- Version control and design history tracking  
+
+**Why It’s Useful for Wireframing:**
+Figma streamlines the entire design process — from sketching low-fidelity wireframes to building interactive prototypes. Its drag-and-drop interface, collaboration tools, and integration with other design systems make it an ideal choice for both beginners and professionals.
+
+---
+
+## Conclusion
+Wireframing bridges the gap between ideas and the final design. It transforms concepts into structured, functional layouts that guide the entire design and development process.
