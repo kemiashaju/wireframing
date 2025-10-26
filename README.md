@@ -37,3 +37,39 @@ Wireframes often use placeholders to represent interactive components, such as b
 
 ## Conclusion
 Wireframing bridges the gap between ideas and the final design. It transforms concepts into structured, functional layouts that guide the entire design and development process.
+
+## Types of Wireframes
+
+### 1. Low-Fidelity Wireframes
+Low-fidelity (low-fi) wireframes are simple, rough sketches that focus on structure and layout rather than detailed design. They are often black-and-white and use boxes, lines, and placeholders to represent content.  
+**When to Use:**  
+- In the early stages of design  
+- When exploring multiple layout ideas  
+- During brainstorming or quick feedback sessions  
+
+**Example:** A hand-drawn sketch showing where the logo, navigation, and main content will appear on a webpage.
+
+### 2. High-Fidelity Wireframes
+High-fidelity (high-fi) wireframes are more detailed and polished representations of the final design. They often include specific typography, colors, images, and interactive elements.  
+**When to Use:**  
+- In the later stages of design  
+- When presenting to stakeholders or clients  
+- For usability testing or developer handoff  
+
+**Example:** A Figma or Adobe XD wireframe that closely resembles the finished product, complete with clickable buttons and detailed UI components.
+
+---
+
+## What Type of Wireframe Is This?
+*(Insert your wireframe image or link below)*  
+
+🖼️ **Example Wireframe:**  
+`![Wireframe Example](path-to-your-wireframe-image.png)`  
+
+**Explanation:**  
+This is a **[insert: low-fidelity or high-fidelity] wireframe** because it **[explain why — e.g., it uses simple shapes and placeholders without colors, or it includes detailed UI elements and design components]**.
+
+---
+
+## Conclusion
+Wireframing bridges the gap between ideas and the final design. It transforms concepts into structured, functional layouts that guide the entire design and development process.
